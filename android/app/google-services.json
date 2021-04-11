@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169190290280",
+    "firebase_url": "https://sporthink-b019e.firebaseio.com",
+    "project_id": "sporthink-b019e",
+    "storage_bucket": "sporthink-b019e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169190290280:android:248f77713482848a87dcdd",
+        "android_client_info": {
+          "package_name": "com.mertiva.sporthink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169190290280-9kcra1vtvksji0jmjtquc1bpag73uqdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJqucpviS82tnHQfDH0wjLrLcSllJn4T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169190290280-9kcra1vtvksji0jmjtquc1bpag73uqdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
